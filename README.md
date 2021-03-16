@@ -7,6 +7,4 @@ Classic games that we played as kids in class: Hangman,  TicTacToe, ...
 ## Cards
 Currently only has UNO, but will house other card games, as well.
 
-## Future Directories:
-Games, Arcade, ...
  
